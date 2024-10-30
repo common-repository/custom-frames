@@ -1,0 +1,227 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Frames\n"
+"POT-Creation-Date: 2017-01-07 14:54-0700\n"
+"PO-Revision-Date: 2017-01-07 14:52-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.customframes-admin.php:23
+msgid "Custom Frames-setings"
+msgstr ""
+
+#: class.customframes-admin.php:24
+msgid "Custom Frames"
+msgstr ""
+
+#: class.customframes-admin.php:35 class.customframes-admin.php:254
+msgid "Border Options"
+msgstr ""
+
+#: class.customframes-admin.php:41
+msgid "Add a border to images?"
+msgstr ""
+
+#: class.customframes-admin.php:48
+msgid "Change the width of the border"
+msgstr ""
+
+#: class.customframes-admin.php:55
+msgid "Change the style of the border"
+msgstr ""
+
+#: class.customframes-admin.php:62
+msgid "Change the color of the border"
+msgstr ""
+
+#: class.customframes-admin.php:69
+msgid "Make the border a circle"
+msgstr ""
+
+#: class.customframes-admin.php:76
+msgid "Set the height and width of the image"
+msgstr ""
+
+#: class.customframes-admin.php:83
+msgid "Set the radius for the top left corner border"
+msgstr ""
+
+#: class.customframes-admin.php:90
+msgid "Set the radius for the top right corner border"
+msgstr ""
+
+#: class.customframes-admin.php:97
+msgid "Set the radius for the bottom left corner border"
+msgstr ""
+
+#: class.customframes-admin.php:104
+msgid "Set the radius for the bottom right corner border"
+msgstr ""
+
+#: class.customframes-admin.php:113 class.customframes-admin.php:255
+msgid "Shadow Options"
+msgstr ""
+
+#: class.customframes-admin.php:119
+msgid "Add a shadow to images?"
+msgstr ""
+
+#: class.customframes-admin.php:126
+msgid "Horizontal Shadow"
+msgstr ""
+
+#: class.customframes-admin.php:133
+msgid "Shadows Blur"
+msgstr ""
+
+#: class.customframes-admin.php:140
+msgid "Vertical Shadow"
+msgstr ""
+
+#: class.customframes-admin.php:147
+msgid "Shadow Size"
+msgstr ""
+
+#: class.customframes-admin.php:154
+msgid "Shadow Color"
+msgstr ""
+
+#: class.customframes-admin.php:163 class.customframes-admin.php:256
+msgid "Caption Options"
+msgstr ""
+
+#: class.customframes-admin.php:169
+msgid "Apply border and shadow"
+msgstr ""
+
+#: class.customframes-admin.php:176
+msgid "Font Size"
+msgstr ""
+
+#: class.customframes-admin.php:183
+msgid "Font Align"
+msgstr ""
+
+#: class.customframes-admin.php:190
+msgid "Text Color"
+msgstr ""
+
+#: class.customframes-admin.php:253
+msgid "General"
+msgstr ""
+
+#: class.customframes-admin.php:263
+msgid "Custom Frames Preview"
+msgstr ""
+
+#: class.customframes-admin.php:266
+msgid "Caption"
+msgstr ""
+
+#: class.customframes-admin.php:268
+msgid "Shortcode Example"
+msgstr ""
+
+#: class.customframes-admin.php:271
+msgid "src - picture source"
+msgstr ""
+
+#: class.customframes-admin.php:272
+msgid "height - height for the picture. (optional defaults to 300)"
+msgstr ""
+
+#: class.customframes-admin.php:273
+msgid "width - width for the picture. (optional defaults to 450)"
+msgstr ""
+
+#: class.customframes-admin.php:274
+msgid "caption - includes a caption with the picture. (optional)"
+msgstr ""
+
+#: class.customframes-admin.php:275
+msgid "class - specify a css class for the frame. (optional)"
+msgstr ""
+
+#: class.customframes-admin.php:370 class.customframes-admin.php:402
+#: class.customframes-admin.php:434 class.customframes-admin.php:465
+msgid "Enabled"
+msgstr ""
+
+#: class.customframes-admin.php:371
+msgid "places a border around any images using the [customframe] shortcode"
+msgstr ""
+
+#: class.customframes-admin.php:388
+msgid "solid"
+msgstr ""
+
+#: class.customframes-admin.php:389
+msgid "dotted"
+msgstr ""
+
+#: class.customframes-admin.php:390
+msgid "dashed"
+msgstr ""
+
+#: class.customframes-admin.php:391
+msgid "double"
+msgstr ""
+
+#: class.customframes-admin.php:392
+msgid "groove"
+msgstr ""
+
+#: class.customframes-admin.php:393
+msgid "ridge"
+msgstr ""
+
+#: class.customframes-admin.php:394
+msgid "inset"
+msgstr ""
+
+#: class.customframes-admin.php:395
+msgid "outset"
+msgstr ""
+
+#: class.customframes-admin.php:403
+msgid "Makes the border a circle or oval depending on the height and width"
+msgstr ""
+
+#: class.customframes-admin.php:409
+msgid "The height and width need to be the same to create a circle. Leave blank for an oval"
+msgstr ""
+
+#: class.customframes-admin.php:435
+msgid "Adds a shadow to images placed by [customframe] shortcode"
+msgstr ""
+
+#: class.customframes-admin.php:466
+msgid "Extends the border and shadow options to the caption"
+msgstr ""
+
+#: class.customframes-admin.php:478
+msgid "left"
+msgstr ""
+
+#: class.customframes-admin.php:479
+msgid "center"
+msgstr ""
+
+#: class.customframes-admin.php:480
+msgid "right"
+msgstr ""
+
+#: class.customframes.php:86
+#, php-format
+msgid "Could not activate Custom Frames version %s because it requires wordpress version %s or greater."
+msgstr ""

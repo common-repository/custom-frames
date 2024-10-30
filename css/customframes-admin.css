@@ -1,0 +1,23 @@
+.customframes-options{
+	height: 120px;
+}
+.customframes-options:nth-of-type(odd){
+	float: left;
+	width: 40%;
+}
+.customframes-options:nth-of-type(even){
+	float: right;
+	width: 60%;
+}
+.preview-header{
+	margin: 2em 0;
+}
+p + ul{
+	list-style: initial;
+	margin-left: 17px;
+}
+@media (max-width: 960px){
+	.customframes-options{
+		width: 100% !important;
+	}
+}
